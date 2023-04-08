@@ -1,4 +1,4 @@
 import streamlit as st
 import torch
 
-st.title("Hello Assia et Nadjelika from Jedha !!")
+st.title("Yooo Assia et Nadjelika from Jedha !!")
